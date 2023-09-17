@@ -1,0 +1,18 @@
+{
+  "name": "kanbas",
+  "version": "1.0.0",
+  "description": "kanbas web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CS4550"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "malia wanderer",
+  "license": "UNLICENSED"
+}
